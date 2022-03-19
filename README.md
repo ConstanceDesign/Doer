@@ -1,13 +1,66 @@
 # Doer
 
-A simple schedule app which allows a user to plan for each hour of the day.
+![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-AS AN employee with a busy schedule I WANT to add important events to a daily planner SO THAT I can manage my time effectively
+## Table of Contents
 
-WHEN I open the planner THEN the current day is displayed at the top of the calendar
+- [Project Status](#status)
+- [Description](#description)
+- [Usage](#usage)
+- [License](#license)
+- [Built With](#coding)
+- [Contribution](#contribution)
+- [Testing](#test)
+- [Visuals](#visuals)
+- [GitHub Link](#github)
+- [Deployment Link](#deployment)
+- [Additional information](#date,#author,#email,#thanks)
 
-WHEN I scroll down THEN I am presented with time blocks for standard business hours
+## Project Status
 
-WHEN I view the time blocks for that day THEN each time block is color-coded to indicate whether it is in the past, present, or future
+Completed
 
-WHEN I click into a time block THEN I can enter an event WHEN I click the save button for that time block THEN the text for that event is saved in local storage WHEN I refresh the page THEN the saved events persist
+## Description
+
+A simple scheduling app which allows a user to plan for each hour of the day using Third Party APIs.
+
+When the app is opened in a browser window, the current date and time are displayed, along with any text entered in time blocks from previous visits when the page is refreshed. The text can be updated and saved over as needed. Each hour block is color-coded to represent past (grey), present (red), or future (green).
+
+## Usage
+
+This application can be ran in a browser window.
+
+## License
+
+    This project is licensed under the MIT license.
+
+## Built With
+
+HTML,CSS,Bootstrap,Jquery,Javascript,Third Party APIs,Git
+
+## Contribution
+
+This Doer App is open to contributions. Open up an Issue with suggested improvements and be sure your contact information is available for next steps.
+
+## Testing
+
+To run tests, open index.html in a Chrome browser window and enter text into hour blocks then click the save button with the floppy disk icon. Navigate to DevTools: Go to View > Developer > Application to see the Local Storage acknowledge the user prompts, and the console log.
+
+## Visuals
+
+Coming soon!
+
+## GitHub Link
+
+[SnugglesMcGee](https://github.com/SnugglesMcGee)
+
+## Deployment Link
+
+undefined
+
+## Additional Information
+
+- Date: March 19, 2022
+- Author: Constance Mitchell
+- Email: [info@constance.design](mailto:user@example.com)
+- Acknowledgements: Many thanks always to UofT Coding Bootcamp, TA's Ishmael Lopez, Estiven Salazar,and Tutor Daniel Ringenbach
