@@ -48,7 +48,7 @@ To run tests, open index.html in a Chrome browser window and enter text into hou
 
 ## Visuals
 
-Coming soon!
+<img width="837" alt="Doer" src="https://user-images.githubusercontent.com/93297081/161635104-f5c60550-ed88-4563-bb1f-72b233714866.png">
 
 ## GitHub Link
 
@@ -56,7 +56,7 @@ Coming soon!
 
 ## Deployment Link
 
-undefined
+https://snugglesmcgee.github.io/Doer/
 
 ## Additional Information
 
